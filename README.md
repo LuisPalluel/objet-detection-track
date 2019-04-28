@@ -1,5 +1,3 @@
-# objet-detection-track
-
 # AI Open Images
 Lien compétition : https://www.kaggle.com/c/google-ai-open-images-object-detection-track
 *Voici un exemple de résultat obtenu avec notre algorithme :*
